@@ -24,7 +24,12 @@ Updates:
 - Algorithm Added + Supported: None
 - Pools: None
 
-1.2 LATEST
+1.2
 - Added CTHash and CTCHash as a algorithm
 - Supports NiceHash and Prohashing. Added GoodHash
 - Mining software included: CTMiner. YellowMiner, CrysMiner
+
+1.3 LATEST
+- Change from SHA256 to SHA512 for more secure
+- Changing Blockchain to different shapes![image](https://user-images.githubusercontent.com/101154193/165957999-9e6fcebf-d8c0-45fb-acc3-0e52b2b3f8f1.png)
+
