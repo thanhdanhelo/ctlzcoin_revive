@@ -7,7 +7,7 @@ HOW TO SETUP ANY MINERS PROVIDED
 3. When done, register a wallet at there too, you may have to go in your game and pay taxes for the wallet and a little pool fee.
 4. Now you can download the miner then set it up. We suggest you go and contact thanhdanhhello on discord to get the miners then pay in game.
 5. If downloaded the miners. Please do these steps:
-- 1. Paste the wallet address (ex: 0x0000000000010) to the title line. You will see Wallet: UNKNOWN / Username: UNKNOWN.
+- 1. Paste the wallet address (ex: 0xaaaaaaaaaaaaaaaaaaaa) to the title line. You will see Wallet: UNKNOWN / Username: UNKNOWN.
 - 2. Then start the mining process with the correct GPU. Or a free-to-use 10 minutes of mining on a RTX 2060.
 - 3. If you have a GPU then execute the batch without any modifications to the code. Or else you will get no earnings and lose computing power / electricity bill.
 - 4. Choose Start Mining (Press 1 then Enter). Select the correct algorithm you mine cause if you wrong the CUDA cores will not work and maybe break your GPU.
