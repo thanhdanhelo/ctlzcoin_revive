@@ -1,4 +1,7 @@
 # ctlzcoin
+
+--PROJECT CANCELLED IF THERE'S NEW USE FOR THIS I'LL USE THIS---
+
 Crystalenz's Virtual coin. This place is for downloading the software and the patch notes, update lish and such.
 
 HOW TO SETUP ANY MINERS PROVIDED
