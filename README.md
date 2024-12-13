@@ -2,6 +2,8 @@
 
 --PROJECT CANCELLED IF THERE'S NEW USE FOR THIS I'LL USE THIS---
 
+- As of Dec 13 2024, there is still no new uses for this project. It will be abandoned completely if there are no uses in the next 6 months (very likely to happen)
+<!---
 Crystalenz's Virtual coin. This place is for downloading the software and the patch notes, update lish and such.
 
 HOW TO SETUP ANY MINERS PROVIDED
@@ -18,3 +20,4 @@ HOW TO SETUP ANY MINERS PROVIDED
 - 5. Choose a pool to mine. GoodHash maybe the best cause it's created just only to mine CtlzCoin. NiceHash is a short-live pool that can kick you out the pool every 10 - 30 min or so.
 - 6. When you done you will see the miner launched and found alot of shares. But if it's run too fast then you are using the free-to-use RTX 2060. Maybe you have to change the source code a little bit to get the correct amount. If we find anything suspicious about the GPU activity then we will instantly ban you out of all mining pools.
 - 7. Now just let it mine for 24/24 or just run it in 30 minutes if your GPU doesnt have a nice cooling element.
+--->
